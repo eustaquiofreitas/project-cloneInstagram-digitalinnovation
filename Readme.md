@@ -5,6 +5,6 @@
 
 <p> Estudo das tecnologias ( HTML, CSS ) </p>
 
-<a href="https://eustaquiofreitas.github.io/project-cloneInstagram-digitalinnovation/ target="_blank">
+<a href="https://eustaquiofreitas.github.io/project-cloneInstagram-digitalinnovation/" target="_blank">
     https://eustaquiofreitas.github.io/project-cloneInstagram-digitalinnovation/
 </a>
